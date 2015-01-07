@@ -1,5 +1,4 @@
 # Personal_Site
-Personal Website
 The site is at www.jaybuch.com
 
 The index.php file is the landing page for the website. This is also called the profile page on the site.
