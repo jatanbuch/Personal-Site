@@ -7,6 +7,8 @@ The portfolio.php page has the portoflio pieces that I have worked on during cla
 
 The contact.php page is a way for the visitor to contact me either via email, twitter or phone. Please reach out if should you have any questions.
 
+The images forlder has the images used in the project.
+
 The project does make use of the bootstrap for both CSS and Javascipt and jQuery for Javascript. The bootstrap and jQuery files are in the bootstrap and js folder respectively. 
 
 Any CSS (portfolio.css and portfolio_responsive.css) and Javascript (portfolio.js) scripts written by me are included in the CSS and JS files respectively.
