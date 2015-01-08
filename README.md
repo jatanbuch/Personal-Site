@@ -15,6 +15,6 @@ Any CSS (portfolio.css and portfolio_responsive.css) and Javascript (portfolio.j
 
 Should you have any questions, please feel free to reach out...
 
-Thanks
+Live Life & Have Fun!
 
 Jay
