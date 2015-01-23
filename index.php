@@ -37,7 +37,7 @@
 		<span>Web Development Intensive</span><br />
 		<label>Temple University - Fox School of Business and Management</label><br />
 		<span>Bachelors of Business Administration</span>
-		<p>Elected as Associate Lead Analyst to identify best investment opportunitiesl developed an investment thesis for two investment projects which yielded sizeable profits. Coached a team of eight junior analysts in understanding the financial analysis process and improve due diligence skills.</p>
+		<p>Elected as Associate Lead Analyst to identify best investment opportunities; developed an investment thesis for two investment projects which yielded sizeable profits. Coached a team of eight junior analysts in understanding the financial analysis process and improve due diligence skills.</p>
 		<h2 id="experience">Experience</h2>
 		<div id="hover_over_position"></div>
 		<h3 id="am_position" data-toggle="tooltip" title="Click for Reference">Assistant Branch Manager</h3>
