@@ -126,6 +126,12 @@ div.twitter_clone, div.personal_site {
 	box-shadow: 10px 10px 20px black;
 	margin-top: 20px;
 }
+div.twitter_clone:hover{
+	cursor: crosshair;
+}
+div.personal_site:hover{
+	cursor: crosshair;
+}
 
 div.twitter_caption, div.personalsite_caption {
 	position: absolute;

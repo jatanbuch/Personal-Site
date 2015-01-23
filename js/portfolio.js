@@ -38,27 +38,15 @@ $(document).ready(function() {
 	$('div.twitter_clone').click(function() {
 		if($('div.twitter_caption').is(":hidden")){
 			$('div.twitter_caption').slideDown(800);
-			event.preventDefault();
-			
 		}else{
 			$('div.twitter_caption').fadeOut('slow');
-			event.preventDefault();
-
-
 		}
 	});
 	$('div.personal_site').click(function() {
 		if($('div.personalsite_caption').is(":hidden")){
 			$('div.personalsite_caption').slideDown(800);
-			event.preventDefault();
 		}else{
 			$('div.personalsite_caption').fadeOut('slow');
-			event.preventDefault();
 		}
 	});
-
-	
-	
-	
-
 });

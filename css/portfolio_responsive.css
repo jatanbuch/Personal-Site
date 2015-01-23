@@ -3,12 +3,6 @@
 		box-shadow: 5px 5px 40px grey;
 		border-radius: 20px;
 	}
-	/*img#sourcecode {
-		display: none;
-	}
-	a#name, a#title {
-		color: black;
-	}*/
 	label.accomplishments1:hover {
 		color: #DFFA00;
 		cursor: crosshair;
@@ -55,5 +49,4 @@
 		color: #DFFA00;
 		cursor: crosshair;
 	}
-	
 }
